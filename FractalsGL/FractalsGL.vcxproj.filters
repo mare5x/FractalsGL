@@ -21,7 +21,7 @@
     <ClCompile Include="Core.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\vs_dev_lib\glad\src\glad.c">
+    <ClCompile Include="..\..\..\libs\cpp\glad\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
